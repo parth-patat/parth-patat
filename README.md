@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**parth-patat/parth-patat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on [demo-portfolio](https://github.com/parth-patat/Demo-portfolio)
 - 🌱 I’m currently learning **"JavaScript"**
 - 💬 Ask me about **Web-Development**
