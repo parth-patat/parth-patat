@@ -1,33 +1,88 @@
-### Hello there, I'm Parth 👋
-I'm a self taught Web development enthusiast specializing in FrontEnd designs.
+<h1>Hello there, I'm Parth 👋</h1>
+<p>A self taught Web development enthusiast specializing in FrontEnd designs.</p>
 
-<a href="https://www.linkedin.com/in/parth-patat/">
-  <img align="left" alt="Parth Patat | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:parthpatat1001@gmail.com">
-  <img align="left" alt="Parth Patat | Email" src="https://img.shields.io/badge/Gmail-ad1f1c?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.twitter.com/in/parth-patat/">
-  <img align="left" alt="Parth Patat | Twitter" src="https://img.shields.io/badge/Twitter-00a2f3?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://www.twitter.com/in/parth-patat/">
-  <img align="left" alt="Parth Patat | Instagram" src="https://img.shields.io/badge/Instagram-00a2f3?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
+<div>
+  <a href="https://www.linkedin.com/in/parth-patat/">
+    <img align="left" alt="Parth Patat | LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5">
+  </a>
+  <a href="mailto:parthpatat1001@gmail.com">
+    <img align="left" alt="Parth Patat | Email" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=ad1f1c">
+  </a>
+  <a href="https://www.twitter.com/in/parth-patat/">
+    <img align="left" alt="Parth Patat | Twitter" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=00a2f3">
+  </a>
+  <a href="https://www.twitter.com/in/parth-patat/">
+    <img align="left" alt="Parth Patat | Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=ef0f81">
+  </a>
+</div>
 
 <br/>
-<br/>
-  
+<hr width="550px">
+
 - 🌱 I’m currently learning **"JavaScript"**
 - 💬 Ask me about **Web-Development**
 - 📫 How to reach me: **parthpatat1001@gmail.com**
 
-  
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-patat&show_icons=true&theme=light&title_color=0c0404&text_color=ffffff&bg_color=374151&locale=en&layout=compact" alt="parth-patat" /></p>
+<hr width="550px">
 
-<br><br><br><br><br><br>
+**Tools : &nbsp;	&nbsp;**
+<code>
+	<img height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code>
+	<img height="20" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
+<code>
+	<img height="20" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-patat&theme=light" alt="parth-patat" /></p>  
+**Languages : &nbsp;	&nbsp;**
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code>
+	<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
+
+<hr>
+
+### GitHub Statastics:
+
+<table>
+	<tr>
+		<td>
+			<!-- Stats -->
+			<a href="https://github.com/parth-patat/github-readme-stats">
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-patat&show_icons=true&include_all_commits=true&border_radius=0&title_color=166FE9&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&hide_border=true&hide_title=true&rank_color=57181C" alt="Parth's github stats" />
+			</a>
+		</td>
+		<td>
+			<!-- Languages -->
+			<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-patat&show_icons=true&title_color=ffffff&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&layout=default&card_width=450&border_radius=0&hide_border=true" alt="parth-patat" /></p>
+		</td>
+</table>
+
+<!-- streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parth-patat&theme=dark&ring=CA242464&fire=B6A200&currStreakLabel=FFFFFFD7&border=3B434BC0&stroke=DD2727C0&background=0D1117)](https://git.io/streak-stats)
+
+
+
+<!-- 
+title_color 166FE9
+text_color 166FE9
+icon_color 166FE9
+bg_color ffffff
+-->
+
   
 <!--- ⚡ Fun fact: ...-->
 <!--- 👯 I’m looking to collaborate on--> 
