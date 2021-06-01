@@ -1,3 +1,5 @@
+<img align="left" width="180" height="180" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
+
 <h1>Hello there, I'm Parth 👋</h1>
 <p>A self taught Web development enthusiast specializing in FrontEnd designs.</p>
 
@@ -17,13 +19,17 @@
 </div>
 
 <br/>
-<hr width="550px">
+<!-- <hr width="550px"> -->
+<br/>
+<br/>
+
+<img align="right" height="240px" alt="GIF" src="https://github.com/parth-patat/parth-patat/blob/main/giff.gif?raw=true" />
 
 - 🌱 I’m currently learning **"JavaScript"**
 - 💬 Ask me about **Web-Development**
 - 📫 How to reach me: **parthpatat1001@gmail.com**
 
-<hr width="550px">
+<hr width="400px">
 
 **Tools : &nbsp;	&nbsp;**
 <code>
