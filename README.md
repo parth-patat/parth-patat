@@ -1,29 +1,36 @@
-<img align="left" width="180" height="180" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
+<img align="left" width="180" height="180" alt="Parth" src="https://user-images.githubusercontent.com/60286714/120383730-df818f80-c342-11eb-9294-c96d67bf74f9.png" />
 
-<h1>Hello there, I'm Parth 👋</h1>
-<p>A self taught Web development enthusiast specializing in FrontEnd designs.</p>
+<h1 align="center">Hello there, I'm Parth 👋</h1>
+<p align="center">A self taught Web development enthusiast specializing in FrontEnd designs.</p>
 
 <div>
+	&emsp;
+	&emsp;
+	&emsp;
+	&emsp;
+	&emsp;
+	&emsp;
   <a href="https://www.linkedin.com/in/parth-patat/">
-    <img align="left" alt="Parth Patat | LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5">
+    <img align="center" alt="Parth Patat | LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5">
   </a>
+	&emsp;
   <a href="mailto:parthpatat1001@gmail.com">
-    <img align="left" alt="Parth Patat | Email" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=ad1f1c">
+    <img align="center" alt="Parth Patat | Email" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=ad1f1c">
   </a>
+	&emsp;
   <a href="https://www.twitter.com/in/parth-patat/">
-    <img align="left" alt="Parth Patat | Twitter" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=00a2f3">
+    <img align="center" alt="Parth Patat | Twitter" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=00a2f3">
   </a>
+	&emsp;
   <a href="https://www.twitter.com/in/parth-patat/">
-    <img align="left" alt="Parth Patat | Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=ef0f81">
+    <img align="center" alt="Parth Patat | Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=ef0f81">
   </a>
 </div>
 
 <br/>
-<!-- <hr width="550px"> -->
-<br/>
-<br/>
+<hr>
 
-<img align="right" height="240px" alt="GIF" src="https://github.com/parth-patat/parth-patat/blob/main/giff.gif?raw=true" />
+<img align="right" width="500px" height="200px" alt="GIF" src="https://github.com/parth-patat/parth-patat/blob/main/giff-unscreen.gif?raw=true" />
 
 - 🌱 I’m currently learning **"JavaScript"**
 - 💬 Ask me about **Web-Development**
@@ -68,7 +75,7 @@
 		<td>
 			<!-- Stats -->
 			<a href="https://github.com/parth-patat/github-readme-stats">
-				<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-patat&show_icons=true&include_all_commits=true&border_radius=0&title_color=166FE9&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&hide_border=true&hide_title=true&rank_color=57181C" alt="Parth's github stats" />
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-patat&show_icons=true&include_all_commits=true&border_radius=0&title_color=166FE9&icon_color=57181C&text_color=ffffff&bg_color=ffffff&locale=en&hide_border=true&hide_title=true&rank_color=57181C" alt="Parth's github stats" />
 			</a>
 		</td>
 		<td>
@@ -79,7 +86,6 @@
 
 <!-- streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parth-patat&theme=dark&ring=CA242464&fire=B6A200&currStreakLabel=FFFFFFD7&border=3B434BC0&stroke=DD2727C0&background=0D1117)](https://git.io/streak-stats)
-
 
 
 <!-- 
