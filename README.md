@@ -16,7 +16,7 @@
     <img align="left" alt="Parth Patat | Twitter" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=00a2f3">
   </a>
 
-  <a href="https://www.twitter.com/in/parth-patat/">
+  <a href="https://www.instagram.com/parth.patat/">
     <img align="left" alt="Parth Patat | Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=ef0f81">
   </a>
 </div>
