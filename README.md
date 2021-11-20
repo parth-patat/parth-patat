@@ -27,7 +27,7 @@
 
 <img align="right" width="400px" height="200px" alt="GIF" src="https://github.com/parth-patat/parth-patat/blob/main/giff-unscreen.gif?raw=true" />
 
-<h3 align="left"> 🙋 About me </h3>
+<h3 align="left"> 🙋🏽‍♂️ About me </h3>
 
 &emsp;&emsp; 🌱 &nbsp; I’m currently learning **"JavaScript"** <br>
 &emsp;&emsp; 💬 &nbsp; Ask me about **Web-Development** <br>
