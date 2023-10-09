@@ -29,8 +29,8 @@
 
 <h3 align="left"> 🙋🏽‍♂️ About me </h3>
 
-&emsp;&emsp; 🌱 &nbsp; I’m currently learning **"JavaScript"** <br>
-&emsp;&emsp; 💬 &nbsp; Ask me about **Web-Development** <br>
+&emsp;&emsp; 🌱 &nbsp; I’m currently learning **"Data Science"** <br>
+&emsp;&emsp; 💬 &nbsp; Ask me about **Anything realted to data** <br>
 &emsp;&emsp; 📫 &nbsp; How to reach me: **parthpatat1001@gmail.com** <br>
 
 ###
@@ -53,7 +53,7 @@
 
 <hr>
 
-### GitHub Statastics:
+### GitHub Statistics:
 
 <table>
 	<tr>
